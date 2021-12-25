@@ -1,6 +1,6 @@
 ### Olá 😉, Eu sou o JohnnySza!
 
-- 🔭 Atualmente estudando Desenvolvimento Front-End
+- 🔭 Atualmente estudando Desenvolvimento Web Front-End
 
 <div align="center">
   <a href="https://github.com/johnnysza">
