@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente estudando Desenvolvimento Web Front-End
 - 🎓No momento, estou aprendendo Javascript
+- 🎮Inicio dessa Jornada em Setembro/21
 
 <div align="center">
   <a href="https://github.com/johnnysza">
