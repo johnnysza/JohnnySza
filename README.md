@@ -1,8 +1,7 @@
 ### Olá 😉, Eu sou o JohnnySza!
 
 - 🔭 Atualmente estudando Desenvolvimento Web Front-End
-- 🎓No momento, estou aprendendo Javascript
-- 🎮Inicio dessa Jornada em Setembro/21
+- 🎓No momento, estou aprendendo React
 
 <div align="center">
   <a href="https://github.com/johnnysza">
