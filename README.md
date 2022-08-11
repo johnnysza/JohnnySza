@@ -1,7 +1,7 @@
-### Olá 😉, Eu sou o JohnnySza!
+### Hello 😉, I'm Jonathan da Silva Souza!
 
-- 🔭 Atualmente estudando Desenvolvimento Web Front-End
-- 🎓No momento, estou aprendendo React
+- 🔭 Front end Web Developer
+- 🎓 HTML, CSS, Javascript, React
 
 <div align="center">
   <a href="https://github.com/johnnysza">
