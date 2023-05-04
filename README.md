@@ -1,7 +1,7 @@
 ### Hello 😉, I'm Jonathan da Silva Souza!
 
-- 🔭 Front end Web Developer
-- 🎓 HTML, CSS, Javascript, React
+- 🔭 Front end Web Developer.
+- 🎓 HTML, CSS, Javascript, ReactJS.
 
 <div align="center">
   <a href="https://github.com/johnnysza">
